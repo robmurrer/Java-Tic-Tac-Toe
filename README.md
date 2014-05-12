@@ -4,7 +4,7 @@ A model view controller approach was taken in this program.  Inside the the file
 
 ## Screenshots
 
-![Command Line Version](images/cmd.png)
+![Command Line Version](img/cmd.png)
 
-![GUI Version](images/gui.png)
+![GUI Version](img/gui.png)
 
